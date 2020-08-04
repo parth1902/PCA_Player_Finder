@@ -1,2 +1,1 @@
-# voila-app
-A simple Voila App
+# test dashboard
