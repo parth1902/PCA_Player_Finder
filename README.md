@@ -1,4 +1,4 @@
-# PCA-based model to similar football players
+# PCA-based model to find similar football players
 
 You can demo the model here: https://cryptic-meadow-97768.herokuapp.com
 
