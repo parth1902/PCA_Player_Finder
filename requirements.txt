@@ -28,7 +28,6 @@ balaban==0.0.23
 PIL
 beautifulsoup4==4.8.2
 bitarray==1.2.1
-sklearn
 bkcharts==0.2
 bleach==3.1.0
 bokeh==2.0.0
