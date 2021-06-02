@@ -281,7 +281,7 @@ ujson==1.35
 understat==0.1.2
 unicodecsv==0.14.1
 Unidecode==1.1.1
-urllib3==1.25.8
+urllib3==1.26.5
 viola==0.3.8
 voila==0.1.21
 watchdog==0.10.2
