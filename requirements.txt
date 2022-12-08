@@ -37,7 +37,7 @@ Brotli==1.0.7
 bs4==0.0.1
 cairocffi==1.1.0
 cashier==1.3
-certifi==2019.11.28
+certifi==2022.12.7
 cffi==1.14.0
 cftime==1.1.3
 chardet==3.0.4
